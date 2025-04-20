@@ -78,7 +78,7 @@ This system demonstrates the power of using cloud infrastructure to host and man
 
   **Download this commands file and start executing**
 
-[📥 Download the Full Guide](https://github.com/SNS-Srinivasu/aws-student-course-management/raw/main/student_course_system_full_guide.txt)
+[📥 Download the Full Guide (ZIP)](https://github.com/SNS-Srinivasu/aws-student-course-management/raw/main/student_course_system_full_guide.zip)
 
 
 ## 💡 **How It Works**
