@@ -1,4 +1,4 @@
-##🎓 Student Course Management System
+## 🎓 Student Course Management System
 
 A simple CLI-based **Student Course Management System** built using **MySQL** on **AWS RDS**, accessed via **MySQL CLI** from an **AWS EC2** instance.
 
