@@ -1,4 +1,4 @@
-[student_course_system_full_guide.txt](https://github.com/user-attachments/files/19826874/student_course_system_full_guide.txt)# 🎓 Student Course Management System
+🎓 Student Course Management System
 
 A simple CLI-based **Student Course Management System** built using **MySQL** on **AWS RDS**, accessed via **MySQL CLI** from an **AWS EC2** instance.
 
@@ -77,7 +77,8 @@ This system demonstrates the power of using cloud infrastructure to host and man
 ## **Step-5**
 
   **Download this commands file and start executing**
-  
+
+  https://github.com/SNS-Srinivasu/aws-student-course-management/blob/main/student_course_system_full_guide.txt
 
 
 ## 💡 **How It Works**
